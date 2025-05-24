@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tino1933
 - 👀 I’m interested in emerging technologies and natsec 
-- 🌱 I’m currently learning 5G and cloud/edge computing 
+- 🌱 I’m currently AI,web app design, and cybersecurity 
 - 💞️ I’m looking to collaborate on undecided just yet -- exploring opportunities
 - 📫 How to reach me TBD
 
