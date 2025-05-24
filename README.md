@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Tino1933
-- 👀 I’m interested in emerging technologies and natsec 
-- 🌱 I’m currently learning 5G and cloud/edge computing 
-- 💞️ I’m looking to collaborate on undecided just yet -- exploring opportunities
-- 📫 How to reach me TBD
+# Candidate Information Tool
 
-<!---
-Tino1933/Tino1933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains a basic command-line application for collecting and managing information about political candidates. The tool can scrape candidate data from public websites, organize it into profiles, and help voters compare and get recommendations based on their preferences.
+
+## Features
+- Scrape candidate information from publicly available sources.
+- Store data locally in JSON format.
+- Personalize results by district and compare candidates on specific issues.
+- Simple recommendation engine based on voter priorities.
+
+See [docs/USAGE.md](docs/USAGE.md) for instructions and [docs/UPDATE_DATA_SOURCES.md](docs/UPDATE_DATA_SOURCES.md) for guidance on adding new data sources or adapting to different regions.
