@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tino1933
-- 👀 I’m interested in emerging technologies and natsec 
-- 🌱 I’m currently AI,web app design, and cybersecurity 
+- 👀 I’m interested in emerging technologies, cybersecurity, and natsec 
+- 🌱 I’m currently learning AI and cybersecurity compliance 
 - 💞️ I’m looking to collaborate on undecided just yet -- exploring opportunities
 - 📫 How to reach me TBD
 
